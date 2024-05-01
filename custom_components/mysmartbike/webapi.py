@@ -120,7 +120,7 @@ class MySmartBikeWebApi:
                 "Accept-Language": "de-DE",
                 "X-Theme": API_X_THEME,
                 "X-App": API_X_APP,
-                "X-Platform": API_X_PLATFORM,
+                # "X-Platform": API_X_PLATFORM, TODO: This is a workaround to display bicycles that are not shown in the iOS platform.
                 "X-Version": API_X_VERSION,
             }
         )
