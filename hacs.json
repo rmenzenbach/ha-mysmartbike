@@ -1,6 +1,4 @@
 {
   "name": "MySmartBike",
-  "render_readme": true,
-  "zip_release": true,
-  "filename": "mysmartbike.zip"
+  "render_readme": true
 }
